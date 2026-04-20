@@ -41,7 +41,7 @@ which is a heavily modified version of the [Little Kernel Embedded Operating Sys
 lk2nd supports a significant amount of devices. See [devices.md](Documentation/devices.md) for a comprehensive list.
 
 ## Installation
-1. Download `lk2nd.img` (available in [Releases](https://github.com/msm8916-mainline/lk2nd/releases))
+1. Download `lk2nd.img` (available in [Releases](https://github.com/renatus777rr/lk2nd-a20s/releases))
 2. Flash `lk2nd.img` using the stock flashing interface:
     - Fastboot: `fastboot flash boot lk2nd.img`
     - Samsung: `heimdall flash --BOOT lk2nd.img`
