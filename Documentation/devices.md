@@ -129,6 +129,7 @@
 ### lk2nd-msm8953
 
 - Asus Zenfone 3 ZE520KL/ZE552KL (zenfone3)
+- Samsung Galaxy A20s (a20s)
 - Billion Capture+ (rimob)
 - Fairphone 3
 - Huawei Maimang 5 / Nova Plus / G9 (Plus) (milan)
@@ -161,7 +162,6 @@
 - Xiaomi Redmi 7 (onclite) (requires flashing [minimal DTBO](#minimal-dtb-overlay))
 - Xiaomi Redmi Note 4X Snapdragon (mido)
 - Xiaomi Redmi S2/Y2 (ysl)
-
 ### lk2nd-msm8974
 - BlackBerry Passport - wolverine
 - Fairphone 2 - FP2
